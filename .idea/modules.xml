@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TrappedFree.iml" filepath="$PROJECT_DIR$/TrappedFree.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TrappedFree_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TrappedFree_main.iml" group="TrappedFree" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TrappedFree_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TrappedFree_test.iml" group="TrappedFree" />
     </modules>
   </component>
 </project>
