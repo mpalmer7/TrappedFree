@@ -17,7 +17,6 @@ public class TrappedFreeCommand implements CommandExecutor {
     public CommandResult execute(CommandSource src, CommandContext args) {
         //do stuff
 
-
         return CommandResult.success();
     }
 }
